@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.background {
+  background-color: #ffc2a0;
+  height: 150vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 40px;
+  width: 1000px;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: Roboto;
+  font-size: 45px;
+  text-align: center;
+}
+
+.ul {
+  padding: 20px;
+  list-style: none;
+}
+
+.delete {
+  color: #ff0b37;
+  font-size: 18px;
+  padding: 10px;
+  font-family: Roboto;
+  background-color: white;
+  border-radius: 10px;
+  border-color: #ff0b37;
+  height: 60px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
